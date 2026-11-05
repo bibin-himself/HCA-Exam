@@ -4,7 +4,7 @@ Officially `Approved/Enacted/Adopted` on  :
  `1949 Nov 26` (Constitution Day of India, National Legal Day)
 
 
-Came into `force/Commenced/Enforced/Enforced` on  :
+Came into `force/Commenced/Enforced` on  :
  `1950 Jan 26` 
 
 
@@ -52,7 +52,7 @@ Preamble
 | Single Citizenship                                | Britain                       |
 | Parliamentary Privileges                          | Britain                       |
 | Legislative Procedure                             | Britain                       |
-| Bicameralism                                      | Britain                       |
+| Bicameralism (Lok Sabha & Rajya Sabha)            | Britain                       |
 | Writs                                             | Britain                       |
 
 | Fundamental Rights                                | USA                           |
@@ -91,33 +91,17 @@ Preamble
 
 
 
-`Structural / Administrative features`
+`Structural features`
 > Government of India Act, 1935
  – Federal scheme, office of Governor, Public Service Commissions, emergency provisions and administrative details.
+
+`Political features`
 > Britain
  – Parliamentary system, Cabinet system, Writs, Speaker, Enactment of Law, Rule of Law and single citizenship, Bicameralism.
-
-
 
 `Philosophical features`
 - USA – Fundamental Rights and Judicial Review.
 - Ireland – Directive Principles of State Policy.
-
-
-
-`Other important sources`
-> France
- – Republic; Liberty, Equality and Fraternity.
-> Canada
- – Federation with a strong Centre; Residuary powers with the Centre.
-> Australia
- – Concurrent List; Joint sitting of Parliament.
-> USSR (Russia)
- – Fundamental Duties; ideals of social, economic and political justice.
-> Germany (Weimar Constitution)
- – Suspension of Fundamental Rights during Emergency.
-> South Africa
- – Amendment procedure; election of Rajya Sabha members.
 
 
 `Memory trick`
@@ -153,13 +137,13 @@ Amendments through different procedures
 
 
 > Simple Majority	-
-	Formation of new States (Articles 2–4), creation or abolition of Legislative Councils (Article 169)
+   Formation of new States (Articles 2–4), creation or abolition of Legislative Councils (Article 169)
 
 > Special Majority -
- 	Fundamental Rights, DPSPs and most constitutional amendments under Article 368
+   Fundamental Rights, DPSPs and most constitutional amendments under Article 368
 
 > Special Majority + State Ratification	-
-  Amendments affecting federal provisions, like Election of the President, Distribution of legislative powers and representation of States in Parliament
+   Amendments affecting federal provisions, like Election of the President, Distribution of legislative powers and representation of States in Parliament
 
 
 
@@ -252,9 +236,7 @@ District Courts
 Sub Courts
       ↓
 Munsiff Courts -- Magistrate Courts
-      
-
-
+   
 > Features
 Single integrated & unified judicial system
 Ensures justice across India
@@ -306,7 +288,7 @@ Gandhian Principles
 Socialist Principles
 Liberal-intellectual Principles
 
-Purpose:   `Guide Government policy`
+Purpose:   `Guide Government policies`
 
 
 
