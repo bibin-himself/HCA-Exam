@@ -16,10 +16,8 @@ Think of the Indian Constitution as the "master operating system" of India that 
 
 
 
-2. THE COMPONENT BREAKDOWN
-
-🏛 A. STRUCTURE & NATURE OF THE CONSTITUTION
-1. Lengthiest Written Constitution
+`/// 🏛 STRUCTURE & NATURE OF THE CONSTITUTION ///`
+Lengthiest Written Constitution
 World's most detailed written constitution
 
 Originally:
@@ -37,7 +35,7 @@ Preamble
 
 
 
-## Borrowed Features of the Indian Constitution
+`//// Borrowed Features of the Indian Constitution ///`
 
 | Feature                                           | Borrowed from                 |
 | ------------------------------------------------- | ----------------------------- |
@@ -241,12 +239,9 @@ Result:     -   Parliament makes laws.  Supreme Court checks constitutionality
 
 
 
+`⚖ Integrated & Independent JUDICIARY`
 
-
-`⚖ D. JUDICIARY`
-7. Integrated & Independent Judiciary
-
-Hierarchy:
+> Hierarchy:
 
 Supreme Court
       ↓
@@ -256,44 +251,60 @@ District Courts
       ↓
 Sub Courts
       ↓
-Munsiff Courts
-      ↓
-Magistrate Courts
+Munsiff Courts -- Magistrate Courts
+      
 
-Features
-Single integrated judicial system
+
+> Features
+Single integrated & unified judicial system
 Ensures justice across India
 Protects Constitution
 
 
 
 
-🛡 E. RIGHTS, POLICIES & DUTIES
-8. Fundamental Rights
 
-`Part III (Articles 12–35)`
 
-Features:
 
-Justiciable
-Enforceable by Courts
-Not Absolute
+`🛡 E. RIGHTS, POLICIES & DUTIES`
 
+> Fundamental Rights
+  `Part III (Articles 12–35)`
+
+> Features:
+  Justiciable Not Absolute
+  Enforceable by Courts
+  Magna Carta of India
+  Key stone of Constitution
+  Lamps of liberty
+  
 Purpose:  `Protect individual liberty`
+ If violated,
+  Can approach HC (Art.226)
+  Can Approach SC (Art.32)
+ Then order issued for protect, called `Writ`
 
 
 
 
-9. Directive Principles of State Policy (DPSP)
 
-`Part IV (Articles 36–51)`
 
-Called: "Novel Feature of Indian Constitution"  - Dr. B.R. Ambedkar
 
+
+`//// Directive Principles of State Policy (DPSP)  \\\\`
+
+  `Part IV (Articles 36–51)`
+
+"Novel Feature of Indian Constitution" - Dr. B.R. Ambedkar
+
+> Features:
+  Non Justiciable
+  Instructions/Directions to CG or SG for creating policies
+  
 Based on:
 Gandhian Principles
 Socialist Principles
-Liberal Principles
+Liberal-intellectual Principles
 
 Purpose:   `Guide Government policy`
 
@@ -302,22 +313,41 @@ Purpose:   `Guide Government policy`
 
 
 
-10. Fundamental Duties
+`//// Fundamental Duties  \\\\`
 
 `Part IVA Article 51A`
 
-Added by: `42nd Amendment Act, 1976`
+OG constitution had no FD
+Recommended by: Swaran Singh Committee (1976).
+Added by: `42nd Amendment Act, 1976` - (51A(a) to (j))
+11th duty: Added by `86th Constitutional Amendment Act`, 2002 – Article 51A(k).
+
+Non-justiciable (not directly enforceable by courts)
+Borrowed from former USSR (Soviet Union).
 
 Purpose:  `Duties of citizens towards nation`
 
+| Clause | Core Focus        | Fundamental Duty                                        |
+| ------ | ----------------- | ------------------------------------------------------- |
+| 51A(a) | National Symbols  | Respect the Constitution, National Flag and Anthem.     |
+| 51A(b) | Freedom Ideals    | Follow ideals of the freedom struggle.                  |
+| 51A(c) | Sovereignty       | Protect India's sovereignty, unity and integrity.       |
+| 51A(d) | National Service  | Defend the country and serve when called.               |
+| 51A(e) | Brotherhood       | Promote harmony, brotherhood & respect women's dignity. |
+| 51A(f) | Composite Culture | Preserve India's composite culture.                     |
+| 51A(g) | Environment       | Protect nature and show compassion to living creatures. |
+| 51A(h) | Scientific Temper | Develop scientific temper, humanism and inquiry.        |
+| 51A(i) | Public Property   | Protect public property and avoid violence.             |
+| 51A(j) | Excellence        | Strive for excellence in all spheres.                   |
+| 51A(k) | Education         | Provide education to children aged 6–14 years.          | (86th Amendment Act, 2002)                         |
 
 
 
 
 
 
-🕊 F. SECULAR & DEMOCRATIC FEATURES
-11. Secular State
+
+`/// 🕊Secular State \\\`
 
 India:
 No State Religion
@@ -326,34 +356,32 @@ Equal treatment of all religions
 Important Articles:
 14, 15, 16, 25, 26, 27, 28, 29, 30
 
-Preamble ensures:
-
-Liberty of belief
-Faith
-Worship
+> Preamble ensures:
+  Liberty of belief
+  Faith
+  Worship
 
 
 `Articles 14–16 : Equality`
-Art. 14 → Equality before Law
-Art. 15 → No Discrimination
-Art. 16 → Equal Opportunity in Govt Jobs
+  Art. 14 → Equality before Law
+  Art. 15 → No Discrimination
+  Art. 16 → Equal Opportunity in Govt Jobs
 
 ✅ Mnemonic: E-D-J (Equality → Discrimination banned → Jobs equal)
 
 
 `Articles 25–28 : Religious Freedom`
-Art. 25 → Practice Religion
-Art. 26 → Manage Religious Affairs
-Art. 27 → No Religious Tax
-Art. 28 → No Religious Instruction in State-funded Institutions
+  Art. 25 → Practice Religion
+  Art. 26 → Manage Religious Affairs
+  Art. 27 → No Religious Tax
+  Art. 28 → No Religious Instruction in State-funded Institutions
 
 ✅ Mnemonic: P-M-T-I (Practice → Manage → Tax No → Instruction No)
 
 
-
 `Articles 29–30 : Cultural & Educational Rights`
-Art. 29 → Protect Culture & Language
-Art. 30 → Minority Educational Institutions
+  Art. 29 → Protect Culture & Language
+  Art. 30 → Minority Educational Institutions
 
 ✅ Mnemonic: C-M (Culture → Minority Institutions)
 
@@ -364,15 +392,15 @@ Art. 30 → Minority Educational Institutions
 
 
 
-12. Universal Adult Franchise
+`/// Universal Adult Franchise \\\`
 Every adult citizen can vote
 Basis of democratic elections
 
-Article: Article 326
+`Article 326`
 
 Voting Age:
-Reduced to 18 years by
-61st Amendment Act, 1989
+Reduced 21 to 18 years by
+`Article 326 61st Amendment Act, 1989` - Rajiv Gandhi
 
 Applies to:
 Lok Sabha
@@ -383,24 +411,29 @@ Local Self Governments
 
 
 
-13. Single Citizenship
-
-Part II (Articles 5–11)
-
-Purpose:
-National Unity
-National Integration
-
-Unlike USA:
-Indians have only one citizenship
 
 
 
+`/// Single Citizenship \\\`
 
-🏢 G. SPECIAL CONSTITUTIONAL MECHANISMS
-14. Independent Bodies
+Purpose: National Unity & National Integration
 
-Constitution creates bodies independent of Government control.
+`Part II (Articles 5–11)`
+
+Borrowed from Britain
+Unlike USA Indians have only one citizenship
+
+`L M Singhvi Committee` recommended Overseas Citizenship of India (OCI)
+
+
+
+
+
+
+
+`/// 🏢 Independent Bodies  \\\`
+
+Constitution creates bodies `independent of Government control`.
 
 Examples:
 Election Commission
@@ -416,7 +449,9 @@ Ensure transparency and fairness
 
 
 
-15. Emergency Provisions
+`/// Emergency Provisions  \\\`
+
+`Article 352`
 
 Purpose:
 Handle extraordinary situations
@@ -426,8 +461,8 @@ Strong central control during crises
 
 Types:
 National Emergency
-State Emergency
-Financial Emergency
+State Emergency - Art. 356 - President Rule/Constitutional Emergency
+Financial Emergency - Art. 360
 
 
 
