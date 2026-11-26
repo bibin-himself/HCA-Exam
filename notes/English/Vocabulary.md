@@ -63,5 +63,5 @@ Ostensibly      : Apparently/On the surface though not in reality
 
 Execrable       : Extremely bad or unpleasant.
 
-
+Imprimatur      : Approbation, Approval, Acceptation
 
