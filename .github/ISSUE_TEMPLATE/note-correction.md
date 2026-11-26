@@ -7,14 +7,14 @@ assignees: bibin-himself
 ---
 
 > **Rules Before Submitting:**
-> 1. Mention the **exact file name and heading** where the error appears.
+> 1. Mention the **exact file name, heading or line** where the error appears.
 > 2. Provide a **reliable source** (SCERT, NCERT, or official key) for fact/date corrections.
 > 3. Submit **one subject per issue**.
 
 ---
 
 ### File & Topic Name
-<!-- Example: Kerala Renaissance / Chapter 2, or Geography.md -->
+<!-- Example: Kerala Renaissance / Chapter 2, or Geography.md  line 15 -->
 
 
 ### What is the mistake?
